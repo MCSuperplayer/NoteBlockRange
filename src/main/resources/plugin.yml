@@ -1,0 +1,4 @@
+name: NoteBlockRange
+version: '1.0-SNAPSHOT'
+main: io.github.mcsuperplayer.noteBlockRange.NoteBlockRange
+api-version: '1.21'
